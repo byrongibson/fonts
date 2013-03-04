@@ -2,8 +2,8 @@
 
 # # ignore extension-less files (compiled filter)
 # #############################
-*
-!*.*
+#*
+#!*.*
 
 # new and old versions of conffiles, stored by dpkg
 *.dpkg-*
